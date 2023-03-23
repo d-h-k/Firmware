@@ -247,3 +247,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,eclipse,macos,windows,linux
+stm32f411-firmware/.project
